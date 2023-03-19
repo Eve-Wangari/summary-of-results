@@ -39,15 +39,13 @@ main{
    
 }
 .circle{
-    background-image:linear-gradient(to bottom, hsla(256, 72%, 46%, 1),hsla(241, 72%, 46%, 0));
-  width:100px;
-  height:100px;
-  margin-left: 30%;
-  padding: 10px;
-  margin-bottom: 60px;
-
-
-    border-radius: 50%;
+        background-image:linear-gradient(to bottom, hsla(256, 72%, 46%, 1),hsla(241, 72%, 46%, 0));
+        width:100px;
+        height:100px;
+        margin-left: 30%;
+        padding: 10px;
+        margin-bottom: 60px;
+        border-radius: 50%;
 }
 .circle p{
     opacity: 0.7;
@@ -157,7 +155,6 @@ width:0.9em;
    }
    .container-2{
     padding: 10px;
-    
     border-top-right-radius: 0;
     border-bottom-right-radius:30px;
     border-bottom-left-radius:30px;
