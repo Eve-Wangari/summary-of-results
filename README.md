@@ -21,8 +21,8 @@ This is a screenshot I took of the project. I used the firefox browser to take a
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [results summary](https://github.com/Eve-Wangari/summary-of-results/blob/master/index.html)
+- Live Site URL: [Everlyn wangari](https://eve-wangari.github.io/summary-of-results/)
 
 ## My process
 
@@ -40,5 +40,5 @@ I learnt to add google fonts to my documents.How to place selection tags within 
 
 ## Author
 
-- Website - [Everlyn Wangari](https://www.your-site.com)
+- Website - [Everlyn Wangari](https://eve-wangari.github.io/summary-of-results/)
 - Frontend Mentor - [@eve-wangari](https://www.frontendmentor.io/profile/eve-wangari)
